@@ -223,7 +223,7 @@
 							{{model.website.text[model.language].price}}:
 							{{item.price}} <span class='currency'>{{item.currency}}</span>
 							<span ng-show="item.optional==true">
-								<img ng-src="{{model.website.settings.optional.icon}}" title="{{model.website.text[model.language].optional}}" alt="{{model.website.text[model.language].optional}}"/>
+								<img ng-src="{{model.website.settings.optional.icon}}" title="{{model.website.text[model.language].optional}}" class='optional' alt="{{model.website.text[model.language].optional}}"/>
 							</span>
 						</h5>
 						<div ng-show="item.price" class="break"></div>
@@ -234,7 +234,7 @@
 						<div ng-show="item.quantity" class="break"></div>
 						<h6 ng-show="item.translations[model.language].flavour">
 							{{model.website.text[model.language].flavour}}:
-							{{item.translations[model.language].flavour}} <img ng-src="{{model.website.settings.optional.icon}}" title="{{model.website.text[model.language].optional}}" alt="{{model.website.text[model.language].optional}}"/>
+							{{item.translations[model.language].flavour}} <img ng-src="{{model.website.settings.optional.icon}}" title="{{model.website.text[model.language].optional}}" class='optional' alt="{{model.website.text[model.language].optional}}"/>
 						</h6>
 						<div ng-show="item.translations[model.language].flavour" class="break"></div>
 						<h6>

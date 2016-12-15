@@ -13,11 +13,11 @@ app.$(function (){
     
     /**Flowtype**/
     app.$('body').flowtype({
-     minFont : 8,
-     maxFont : 18,
-     minimum : 480, 
-     maximum : 1200
- });
+       minFont : 8,
+       maxFont : 18,
+       minimum : 480, 
+       maximum : 1200
+   });
 
     /**Remove Loader**/
     setTimeout(function(){

@@ -73,8 +73,11 @@ app.angular
 			app.$("body").removeHighlight();
 			
 			/**Tooltips**/
+			app.$('[title]').tooltipster();
 			app.$('.report-link').tooltipster('content',model.website.text[model.language].brokenlink);
 			app.$('.go,.go-title').tooltipster('content',model.website.text[model.language].go);
+			app.$('.optional').tooltipster('content',model.website.text[model.language].optional);
+			app.$('#backtop > a').tooltipster('content',model.website.text[model.language].backTop);
 			app.$('[title]').each(function(){
 				app.$(this).tooltipster('content', app.$(this).attr('title'));
 			});

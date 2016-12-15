@@ -281,6 +281,7 @@
 			"intro": "Before a great cataclysm arives, be prepared <br/> The information and lists below can help you pack your own emergency kit, and additional items are marked as optional. If you have any questions, make sure to ask them using our <a href='#contact' class='navigate dotted-underline'>Contact</a> Form",
 			"Explore": "Explore",
 			"disclaimer": "Disclaimer: This site contains various informations, from different countries, and may have expired prices or data.",
+			"optional": "optional",
 			"begin": "Explore",
 			"go": "go!",
 			"shate-title": "Share",
@@ -337,9 +338,6 @@
 					"name": "Extended",
 					"alias": "extended"
 				}
-			}],
-			"optional": [{
-				"name": "optional"
 			}],
 			"contact-form": {
 				"title": "Contact Form",
