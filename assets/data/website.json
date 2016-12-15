@@ -1,0 +1,449 @@
+{
+	"settings": {
+		"default-lang": "pt-br",
+		"updated": "2016-11-26T17:30Z",
+		"author": "Carlos Casalicchio",
+		"type": "website",
+		"url": "http://www.doomsdaypreppers.tk/d/",
+		"share-images": [
+			"assets/images/sharing/preppers.png",
+			"assets/images/sharing/camping.png",
+			"assets/images/sharing/camping_1.png",
+			"assets/images/sharing/camping_2.png"
+		],
+		"open-source-logos": [{
+			"img": "assets/images/logos/paint.png",
+			"tooltip": "Paint.Net",
+			"url": "http://www.getpaint.net/index.html"
+		}, {
+			"img": "assets/images/logos/xampp.png",
+			"tooltip": "Xampp",
+			"url": "https://www.apachefriends.org/pt_br/index.html"
+		}, {
+			"img": "assets/images/logos/sublime.png",
+			"tooltip": "Sublime Text",
+			"url": "https://www.sublimetext.com/"
+		}, {
+			"img": "assets/images/logos/grunt.png",
+			"tooltip": "Grunt.js",
+			"url": "http://gruntjs.com/"
+		}, {
+			"img": "assets/images/logos/html5.png",
+			"tooltip": "Html5",
+			"url": "https://www.w3.org/TR/html5/"
+		}, {
+			"img": "assets/images/logos/css3.png",
+			"tooltip": "CSS3",
+			"url": "https://www.w3.org/blog/CSS/"
+		}, {
+			"img": "assets/images/logos/less.png",
+			"tooltip": "Less",
+			"url": "http://lesscss.org/"
+		}, {
+			"img": "assets/images/logos/json.png",
+			"tooltip": "Json",
+			"url": "http://www.json.org/"
+		}, {
+			"img": "assets/images/logos/angularjs.png",
+			"tooltip": "Angular.js",
+			"url": "https://angularjs.org/"
+		}, {
+			"img": "assets/images/logos/nodejs.png",
+			"tooltip": "Node.js",
+			"url": "https://nodejs.org/en/"
+		}, {
+			"img": "assets/images/logos/php.png",
+			"tooltip": "PHP",
+			"url": "http://www.php.net/"
+		}],
+		"optional": {
+			"icon": "assets/images/optional.png"
+		},
+		"languages": {
+			"en-US": {
+				"name": "English",
+				"code": "en-US",
+				"flag": "assets/images/languages/en-us.png"
+			},
+			"pt-br": {
+				"name": "Português",
+				"code": "pt-BR",
+				"flag": "assets/images/languages/pt-br.png"
+			}
+		}
+	},
+	"text": {
+		"pt-br": {
+			"lang-type": "PT",
+			"lang-code": "pt-br",
+			"lang-name": "Português",
+			"title": "Preparação para o juizo final",
+			"meta-description": "Site com informações sobre como se preparar para uma emergencia, montar um kit de 72 horas, e também várias ferramentas e suprimentos",
+			"meta-keywords": "doomsday,preparation,72hours,kit,camping,acampamento,prepara&ccedil;&atilde;o,emergencia",
+			"search": "buscar no site",
+			"filter": "Filtrar",
+			"orderby": "Ordenar",
+			"backTop": "Voltar ao Inicio",
+			"copyright": "cada um tem seu direito ©",
+			"open-source-disclaimer": "projeto em código aberto",
+			"brokenlink": "Notificar link quebrado",
+			"reported": "Notificação de link quebrado enviada, obrigado! :)",
+			"category": "Categoria",
+			"language": "Idioma",
+			"price": "Preço",
+			"name": "Titulo",
+			"quantity": "Quantidade",
+			"type": "Tipo",
+			"flavour": "Gosto",
+			"zoom": "Agarre",
+			"intro": "Antes que um grande cataclismo chegue, esteja preparado. <br/> As informações e listas a seguir servem para auxilia-lo a montar sua própria mochila de emergência, sendo que itens adicionais estão marcados como opcionais. Quaisquer dúvidas, entre em contato usando o formulário de <a href='#contact' class='navigate dotted-underline'>Contato</a>",
+			"Explore": "Explore",
+			"disclaimer": "Aviso: Este site contém informações variadas, em diferentes países, e pode não estar com preços ou dados atualizados",
+			"optional": "opcional",
+			"begin": "Explore",
+			"go": "ir!",
+			"shate-title": "Compartilhar",
+			"share": {
+				"email": {
+					"tooltip": "Envie para um amigo",
+					"subject": "Prepare para-se o fim",
+					"body": "Acabei de visitar o site de preparação para o fim do mundo e gostaria de compartilhar com voc&ecirc; <br/> http://http://www.doomsdaypreppers.tk"
+				},
+				"facebook": {
+					"tooltip": "Compartilhar no Facebook",
+					"url": "http://www.doomsdaypreppers.tk"
+				},
+				"linkedin": {
+					"tooltip": "Compartilhar no LinkedIn",
+					"title": "Se prepare para qualquer catástrofe",
+					"summary": "Prepare-se para o fim!",
+					"url": "http://www.doomsdaypreppers.tk",
+					"source": "Doomsday%20Preppers"
+				},
+				"twitter": {
+					"tooltip": "Compartilhar no Twitter",
+					"text": "Prepare-se para o fim!",
+					"url": "http://www.doomsdaypreppers.tk",
+					"via": "c_casalicchio",
+					"hashtags": "doomsday,fimDoMundo,emergencia,preparação,72horas"
+				},
+				"googleplus": {
+					"tooltip": "Compartilhar no Google+",
+					"url": "http://www.doomsdaypreppers.tk"
+				},
+				"pinterest": {
+					"tooltip": "Pin no Pinterest",
+					"url": "http://www.doomsdaypreppers.tk",
+					"media": "http://www.doomsdaypreppers.tk/assets/images/sharing/preppers.png",
+					"description": "Prepare-se para o fim!"
+				}
+			},
+			"categories": [{
+				"category": {
+					"id": 0,
+					"name": "Sobrevivência",
+					"alias": "survival"
+				}
+			}, {
+
+				"category": {
+					"id": 1,
+					"name": "72 Horas",
+					"alias": "72hour"
+				}
+			}, {
+
+				"category": {
+					"id": 2,
+					"name": "Estendido",
+					"alias": "extended"
+				}
+			}],
+			"contact-form": {
+				"title": "Formulário de Contato",
+				"name": "Nome",
+				"email": "E-mail",
+				"message": "Mensagem",
+				"captcha": "Nome do animal doméstico que diz \"miau\"",
+				"captcha-response": "gato",
+				"captcha-error": "digite a resposta correta -_-",
+				"submit": "Enviar",
+				"success": "Sua mensagem foi enviada com sucesso, obrigado!",
+				"failure": "Houve um erro ao enviar a mensage, tente mais tarde"
+			},
+			"menu": [{
+				"name": "Documentos",
+				"ref": "#documents",
+				"id": "documents",
+				"title": "Documentos Úteis",
+				"order": 1
+
+			}, {
+				"name": "Kits",
+				"ref": "#kits",
+				"id": "kits",
+				"title": "Kits para Emergência",
+				"order": 3
+
+			}, {
+				"name": "Equipmentos",
+				"ref": "#equipments",
+				"id": "equipments",
+				"title": "Lista de Equipamentos",
+				"order": 2
+
+			}, {
+				"name": "Sites",
+				"ref": "#sites",
+				"id": "sites",
+				"title": "Sites Relacionados",
+				"order": 5
+
+			}, {
+				"name": "Suprimentos",
+				"ref": "#supplies",
+				"id": "supplies",
+				"title": "Lista de Suprimentos",
+				"order": 4
+
+			}, {
+				"name": "Inicio",
+				"ref": "#start",
+				"id": "start",
+				"title": "Comece aqui",
+				"order": 0
+
+			}, {
+
+				"name": "Videos",
+				"ref": "#videos",
+				"id": "videos",
+				"title": "Vídeos Relacionados",
+				"order": 7
+
+			}, {
+
+				"name": "Contato",
+				"ref": "#contact",
+				"id": "contact",
+				"title": "Contato",
+				"order": 8
+
+			}, {
+				"name": "Lojas",
+				"ref": "#stores",
+				"id": "stores",
+				"title": "Lojas na internet",
+				"order": 6
+
+			}],
+			"languages": {
+				"pt-br": {
+					"name": "Português (Brasil)",
+					"code": "pt-BR",
+					"icon": "../assets/images/flags/pt-br.png"
+				},
+				"en-us": {
+					"name": "Inglês (EUA)",
+					"code": "en-US",
+					"icon": "../assets/images/flags/en-us.png"
+				},
+				"es-es": {
+					"name": "Espanhol (Espanha)",
+					"code": "es-ES",
+					"icon": "../assets/images/flags/es-es.png"
+				}
+			}
+		},
+		"en-us": {
+			"lang-type": "EN",
+			"lang-code": "en-us",
+			"lang-name": "English",
+			"title": "Doomsday Preppers",
+			"meta-description": "Website with information on how to prepare a 72 hour survival kit, and also plenty of camping tools",
+			"meta-keywords": "doomsday,preparation,72hours,kit,camping,acampamento,prepara&ccedil;&atilde;o,emergencia",
+			"search": "search site",
+			"filter": "Filter",
+			"orderby": "Order",
+			"backTop": "Back to Top",
+			"copyright": "to each its own ©",
+			"open-source-disclaimer": "Full open source project",
+			"brokenlink": "Report broken link",
+			"reported": "Broken Link Notification sent, thank you :)",
+			"category": "Category",
+			"language": "Language",
+			"price": "Price",
+			"name": "Title",
+			"quantity": "Quantity",
+			"type": "Type",
+			"flavour": "Flavour",
+			"zoom": "Grab",
+			"intro": "Before a great cataclysm arives, be prepared <br/> The information and lists below can help you pack your own emergency kit, and additional items are marked as optional. If you have any questions, make sure to ask them using our <a href='#contact' class='navigate dotted-underline'>Contact</a> Form",
+			"Explore": "Explore",
+			"disclaimer": "Disclaimer: This site contains various informations, from different countries, and may have expired prices or data.",
+			"begin": "Explore",
+			"go": "go!",
+			"shate-title": "Share",
+			"share": {
+				"email": {
+					"tooltip": "Send to a Friend",
+					"subject": "Prepare for Doomsday",
+					"body": "I have just visited the Doomsday Preppers site and would like to share it with you <br/> http://http://www.doomsdaypreppers.tk"
+				},
+				"facebook": {
+					"tooltip": "Share on Facebook",
+					"url": "http://www.doomsdaypreppers.tk"
+				},
+				"linkedin": {
+					"tooltip": "Share on LinkedIn",
+					"title": "Get ready for any catastrophe",
+					"summary": "Prepare for doomsday!",
+					"url": "http://www.doomsdaypreppers.tk",
+					"source": "Doomsday%20Preppers"
+				},
+				"twitter": {
+					"tooltip": "Share on Twitter",
+					"text": "Prepare for doomsday!",
+					"url": "http://www.doomsdaypreppers.tk",
+					"via": "c_casalicchio",
+					"hashtags": "doomsday,endOfWorld,emergency,preparedness,72hours"
+				},
+				"googleplus": {
+					"tooltip": "Share on Google+",
+					"url": "http://www.doomsdaypreppers.tk"
+				},
+				"pinterest": {
+					"tooltip": "Pin it",
+					"url": "http://www.doomsdaypreppers.tk",
+					"media": "http://www.doomsdaypreppers.tk/assets/images/sharing/preppers.png",
+					"description": "Prepare for doomsday!"
+				}
+			},
+			"categories": [{
+				"category": {
+					"id": 0,
+					"name": "Survival",
+					"alias": "survival"
+				}
+			}, {
+				"category": {
+					"id": 1,
+					"name": "72 Hours",
+					"alias": "72hour"
+				}
+			}, {
+				"category": {
+					"id": 2,
+					"name": "Extended",
+					"alias": "extended"
+				}
+			}],
+			"optional": [{
+				"name": "optional"
+			}],
+			"contact-form": {
+				"title": "Contact Form",
+				"name": "Name",
+				"email": "Email",
+				"message": "Message",
+				"captcha": "Name the small house pet that says \"meow\"",
+				"captcha-response": "cat",
+				"captcha-error": "type the correct answer -_-",
+				"submit": "Send",
+				"success": "Your message was sent succssfully!",
+				"failure": "Something went wrong while sending your message"
+			},
+			"menu": [{
+
+				"name": "Documents",
+				"ref": "#documents",
+				"id": "documents",
+				"title": "Useful Documentation",
+				"order": 1
+
+			}, {
+
+				"name": "Kits",
+				"ref": "#kits",
+				"id": "kits",
+				"title": "Emergency Kits",
+				"order": 3
+
+			}, {
+
+				"name": "Equipment",
+				"ref": "#equipments",
+				"id": "equipments",
+				"title": "Equipment List",
+				"order": 2
+
+			}, {
+
+				"name": "Websites",
+				"ref": "#sites",
+				"id": "sites",
+				"title": "Related Websites",
+				"order": 5
+
+			}, {
+
+				"name": "Videos",
+				"ref": "#videos",
+				"id": "videos",
+				"title": "Related Videos",
+				"order": 7
+
+			}, {
+
+				"name": "Contact",
+				"ref": "#contact",
+				"id": "contact",
+				"title": "Contact",
+				"order": 8
+
+			}, {
+
+				"name": "Supplies",
+				"ref": "#supples",
+				"id": "supplies",
+				"title": "Supply List",
+				"order": 4
+
+			}, {
+
+				"name": "Start",
+				"ref": "#start",
+				"id": "start",
+				"title": "Start here",
+				"order": 0
+
+			}, {
+
+				"name": "Stores",
+				"ref": "#stores",
+				"id": "storesid",
+				"title": "Web Stores",
+				"order": 6
+
+			}],
+			"languages": {
+				"pt-br": {
+					"name": "Portuguese (Brazil)",
+					"code": "pt-BR",
+					"icon": "../assets/images/flags/pt-br.png"
+				},
+				"en-us": {
+					"name": "English (EUA)",
+					"code": "en-US",
+					"icon": "../assets/images/flags/en-us.png"
+				},
+				"es-es": {
+					"name": "Spanish (Spain)",
+					"code": "es-ES",
+					"icon": "../assets/images/flags/es-es.png"
+				}
+			}
+
+		}
+	}
+}

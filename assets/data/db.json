@@ -1,0 +1,1686 @@
+{
+	"sections": [{
+		"alias": "sites",
+		"id": "sites",
+		"order": 5,
+		"icon": "link",
+		"text": {
+			"pt-br": {
+				"title": "Sites Relacionados",
+				"description": "Lista de websites relacionados a kits e preparação para emergências, planos de ação e instruções. "
+			},
+			"en-us": {
+				"title": "Related Websites",
+				"description": "List of related websites, about emergency kits and preparedness, action plans and instructions"
+			}
+		},
+		"list": [{
+
+				"language": "en-us",
+				"url": "https://www.quakekare.com/emergency-preparedness/severe-weather-preparedness",
+				"category": 0,
+				"image": "assets/images/screenshots/severe-weather-thumb.jpg",
+				"thumb": "assets/images/screenshots/severe-weather-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Preparação para Clima Extremo",
+						"description": "Site com informações úteis para preparação em caso de climas extremos, incluindo tornados, enchentes, tempestades de neve e tempestades de relâmpagos. "
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "Severe Weather Preparedness",
+						"description": "Site with information for preparedness in case of severe weather, such as tornadoes, floods, winter storms, and thunder storms"
+					}
+				}
+			}, {
+
+				"language": "en-us",
+				"url": "https://www.ready.gov/winter-weather",
+				"category": 0,
+				"image": "assets/images/screenshots/winterstorm-thumb.jpg",
+				"thumb": "assets/images/screenshots/winterstorm-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Nevascas e frios extremos",
+						"description": "Site com informações úteis em caso de nevascas e frios extremos, além de instruções sobre como reagir, e como se proteger."
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "Snowstorms & Extreme Cold",
+						"description": "Site with useful information in case of snowstorms and extreme cold conditions, and also instructions on how to react, and how to protect one self."
+					}
+				}
+			}
+
+			, {
+
+				"language": "en-us",
+				"url": "http://ucomm.stanford.edu/quake/preparedness/",
+				"category": 0,
+				"image": "assets/images/screenshots/stanford-thumb.jpg",
+				"thumb": "assets/images/screenshots/stanford-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Preparação para Terremotos",
+						"description": "Site com informações sobre como se preparar para uma terremoto (apesar de serem raros no brasil). O que fazer e como reagir quando essa catástrofe atingir."
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "Earthquake Preparedness",
+						"description": "Site with information about how to be prepared for an earthquake and what to do when this cathastrophe strikes."
+					}
+				}
+			}, {
+
+				"language": "en-us",
+				"url": "https://providentliving.lds.org/",
+				"category": 2,
+				"image": "assets/images/screenshots/providentliving-thumb.jpg",
+				"thumb": "assets/images/screenshots/providentliving-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Vida Previdente",
+						"description": "Site com dicas de como ter uma vida mais organizada e planejada, preparado para quaisquer imprevistos ou emergências"
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "Provident Living",
+						"description": "Website with tips on how to have a more organized life, prepared for any surprises or emergencies"
+					}
+				}
+			}, {
+
+				"language": "en-us",
+				"url": "https://www.ready.gov/",
+				"category": 0,
+				"image": "assets/images/screenshots/ready-thumb.jpg",
+				"thumb": "assets/images/screenshots/ready-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Preparado FEMA",
+						"description": "Site de preparação mantido pela FEMA (agencia americana)"
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "FEMA Ready",
+						"description": "Website on disaster preparation maintained by FEMA"
+					}
+				}
+			}
+		]
+	}, {
+		"alias": "documents",
+		"id": "documents",
+		"order": 1,
+		"icon": "file-text",
+		"text": {
+			"pt-br": {
+				"title": "Documentos Úteis",
+				"description": "Documentos para praparação de kits de 72 horas e outras informações úteis"
+			},
+			"en-us": {
+				"title": "Useful Documents",
+				"description": "Documents for 72 hour kits and other useful information"
+			}
+		},
+		"list": [{
+
+			"language": "en-us",
+			"url": "assets/documents/72_hour_kit.pdf",
+			"category": 1,
+			"image": "assets/images/screenshots/72_hour_kit.jpg",
+			"thumb": "assets/images/screenshots/72_hour_kit.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Kit SUD de 72 Horas",
+					"description": "Kit de 72 horas para pessoas SUD"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "LDS 72 Hours Kit",
+					"description": "72 hour kits for LDS individuals"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "assets/documents/unidades_conservacao.pdf",
+			"category": 2,
+			"image": "assets/images/screenshots/unidades-conservacao.jpg",
+			"thumb": "assets/images/screenshots/unidades-conservacao.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Unidades de Conservação no Estado de São Paulo",
+					"description": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Reservation Units in the state of Sao Paulo, Brazil",
+					"description": ""
+				}
+			}
+		}, {
+
+			"language": "es-es",
+			"url": "assets/documents/Combo_Supervivencia.pdf",
+			"category": 0,
+			"image": "assets/images/screenshots/combo_sobrevivencia.jpg",
+			"thumb": "assets/images/screenshots/combo_sobrevivencia.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Mochilas de Emergência",
+					"description": "Document com lista de itens necessários para uma mochila de emergência"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Emergency Backpack",
+					"description": "Document with list of necessary items for an emergency backpack"
+				}
+			}
+		}, {
+
+			"language": "en-us",
+			"url": "assets/documents/Emergency72HKit.pdf",
+			"category": 1,
+			"image": "assets/images/screenshots/emergency72hkit.jpg",
+			"thumb": "assets/images/screenshots/emergency72hkit.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Kit 72 Horas Americano",
+					"description": "Document com lista de itens para kit de 72 horas"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "US 72 Hour Kit",
+					"description": "Document with list for 72 hour kit"
+				}
+			}
+		}]
+	}, {
+		"alias": "kits",
+		"id": "kits",
+		"order": 3,
+		"icon": "bars",
+		"text": {
+			"pt-br": {
+				"title": "Kits de Emergência",
+				"description": "Kits para emergência e sobrevivência em curto e longo prazo."
+			},
+			"en-us": {
+				"title": "Emergency Kits",
+				"description": "Emergency kits for short and long term survival"
+			}
+		},
+		"list": [{
+
+				"language": "en-us",
+				"url": "http://www.sf72.org/",
+				"category": 1,
+				"image": "assets/images/screenshots/sf72-thumb.jpg",
+				"thumb": "assets/images/screenshots/sf72-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "São Francisco 72",
+						"description": "Site com informações sobre desastres na área de São Francisco, Califórnia (terremotos)"
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "San Francisco 72",
+						"description": "Website with information about disasters in the San Francisco area (earthquakes)"
+					}
+				}
+			}, {
+
+				"language": "en-us",
+				"url": "http://beprepared.com/blog/9750/baby-steps-time-to-winterize-your-grab-and-go-bag/?&sc=LDSLA&oc=LDSLA01A87",
+				"category": 2,
+				"image": "assets/images/screenshots/beprepared-thumb.jpg",
+				"thumb": "assets/images/screenshots/beprepared-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Mochila de Emergência do inverno",
+						"description": "Informações sobre como preparar uma mochila de emergência para o inverno"
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "Winterize your Grab and Go Bag",
+						"description": "Information on how to prepare a winter emergency backpack"
+					}
+				}
+			}
+
+			, {
+
+				"language": "en-us",
+				"url": "http://preparednessadvice.com/books/a-good-medical-book-for-your-72-hour-kit/#.WDm3hPkrKM8",
+				"category": 1,
+				"image": "assets/images/screenshots/preparedness-thumb.jpg",
+				"thumb": "assets/images/screenshots/preparedness-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Um bom livro Médico para seu kit de 72 horas",
+						"description": "Livro com dicas e informações médicas, úteis em caso de emergência"
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "A Good Medical Book for Your 72 Hour Kit",
+						"description": "Book with tips and medical information, useful in case of emergencies"
+					}
+				}
+			}, {
+
+				"language": "en-us",
+				"url": "http://lds.about.com/od/preparednessfoodstorage/a/72hour_kit.htm",
+				"category": 1,
+				"image": "assets/images/screenshots/makekit-thumb.jpg",
+				"thumb": "assets/images/screenshots/makekit-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Como fazer um kit de 72 horas",
+						"description": "Informações sobre como criar um kit de 72 horas"
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "How to Make a 72 Hour Kit for Emergency Preparedness",
+						"description": "Information on how to create a 72 hour kit"
+					}
+				}
+			}, {
+
+				"language": "en-us",
+				"url": "http://www.ehow.com/list_6928108_72-hour-emergency-kit-list.html",
+				"category": 1,
+				"image": "assets/images/screenshots/72hourkit-thumb.jpg",
+				"thumb": "assets/images/screenshots/72hourkit-thumb.jpg",
+				"translations": {
+					"pt-br": {
+						"code": "pt-br",
+						"name": "Lista para kit de 72 Horas",
+						"description": "Lista com itens para manter em uma mochila de emergência, kit de 72 horas"
+					},
+					"en-us": {
+						"code": "en-US",
+						"name": "72 Hour Emergency Kit List",
+						"description": "List with items to keep in an emergency backpack, 72 hour kit"
+					}
+				}
+			}
+		]
+	}, {
+		"alias": "stores",
+		"id": "stores",
+		"order": 6,
+		"icon": "shopping-cart",
+		"text": {
+			"pt-br": {
+				"title": "Lojas Online",
+				"description": "Comércios digitais com itens de acampamento e sobrevivência"
+			},
+			"en-us": {
+				"title": "Online Stores",
+				"description": "eCommerces with camping and survival items"
+			}
+		},
+		"list": [{
+
+			"language": "en-us",
+			"url": "https://www.thesurvivalistdepot.com/",
+			"category": 0,
+			"image": "assets/images/screenshots/survivalist-thumb.jpg",
+			"thumb": "assets/images/screenshots/survivalist-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "A loja do sobrevivente",
+					"description": "Loja com itens de sobrevivencia e acampamento em geral"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "The Survivalist Depot",
+					"description": "Store with survival and general camping items"
+				}
+			}
+		}, {
+
+			"language": "en-us",
+			"url": "http://www.augasonfarms.com/",
+			"category": 2,
+			"image": "assets/images/screenshots/augusons-thumb.jpg",
+			"thumb": "assets/images/screenshots/augusons-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Augason Farms",
+					"description": "Loja de alimentos para kits de emergência e acampamento"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Augason Farms",
+					"description": "Store with food supplies for emergency kits and camping"
+				}
+			}
+		}, {
+
+			"language": "en-us",
+			"url": "https://www.redcrossstore.org/",
+			"category": 2,
+			"image": "assets/images/screenshots/redcross-thumb.jpg",
+			"thumb": "assets/images/screenshots/redcross-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Cruz Vermelha Americana",
+					"description": "Loja da Cruz Vermelha Americana"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "American Red Cross",
+					"description": "American Red Cross Store"
+				}
+			}
+		}, {
+
+			"language": "en-us",
+			"url": "http://beprepared.com/",
+			"category": 2,
+			"image": "assets/images/screenshots/beprepared-thumb.jpg",
+			"thumb": "assets/images/screenshots/beprepared-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Essenciais de Emergência",
+					"description": "Loja com itens essenciais para emergência e acampamentos"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Emergency Essentials",
+					"description": "Store with essential items for emergency and camping"
+				}
+			}
+		}, {
+
+			"language": "en-us",
+			"url": "http://www.thrivelife.com/",
+			"category": 2,
+			"image": "assets/images/screenshots/thrivelife-thumb.jpg",
+			"thumb": "assets/images/screenshots/thrivelife-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Vida Próspera",
+					"description": "Loja de alimentos para emergência e acampamentos"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Thrive Life",
+					"description": "Store with food supplies for emergency and camping"
+				}
+			}
+		}, {
+
+			"language": "en-us",
+			"url": "http://www.imsplus.com/",
+			"category": 2,
+			"image": "assets/images/screenshots/imsplus-thumb.jpg",
+			"thumb": "assets/images/screenshots/imsplus-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Sobras Militares Americana",
+					"description": "Loja que vende sobras de equipamentos militares americanos"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "International Military Sales PLUS",
+					"description": "Stora that sells surplus military equipment"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.armazemaventura.com.br/",
+			"category": 2,
+			"image": "assets/images/screenshots/aventura-thumb.jpg",
+			"thumb": "assets/images/screenshots/aventura-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Armazém Aventura",
+					"description": "Loja de equipamento de acampamento"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Adventure Depot",
+					"description": "Store with camping equipment"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "https://www.kanui.com.br/",
+			"category": 2,
+			"image": "assets/images/screenshots/kanui-thumb.jpg",
+			"thumb": "assets/images/screenshots/kanui-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Kanui",
+					"description": "Loja variada de itens esportivos e acampamento"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Kanui",
+					"description": "Store with various sporting and camping goods"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.boacoisa.com.br/",
+			"category": 2,
+			"image": "assets/images/screenshots/boacoisa-thumb.jpg",
+			"thumb": "assets/images/screenshots/boacoisa-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Boa Coisa",
+					"description": "Loja de departamentos com itens variados"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Good Stuff",
+					"description": "Online department store with various items"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.mundodacarabina.com.br/",
+			"category": 2,
+			"image": "assets/images/screenshots/mundocarabina-thumb.jpg",
+			"thumb": "assets/images/screenshots/mundocarabina-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Mundo Carabina",
+					"description": "Loja esportiva e de acampamento"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Shotgun World",
+					"description": "Sporting and Camping Store"
+				}
+			}
+		}, {
+
+			"language": "es-es",
+			"url": "http://www.cuchilleriaalbacete.com/ar-pt-facas-taticas-sobrevivencia.html",
+			"category": 2,
+			"image": "assets/images/screenshots/cochillos-thumb.jpg",
+			"thumb": "assets/images/screenshots/cochillos-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Cuchilleria Albacete",
+					"description": "Loja de facas de todos os tipos e itens de acampamento"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Cuchilleria Albacete",
+					"description": "Knife store with all kinds of camping goods"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://mmaventura.com.br/loja/",
+			"category": 2,
+			"image": "assets/images/screenshots/mmaventura-thumb.jpg",
+			"thumb": "assets/images/screenshots/mmaventura-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "MM Aventura",
+					"description": "Loja esportiva e de acampamento"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "MM Adventure",
+					"description": "Camping and Sporting Store"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.ventureshop.com.br/",
+			"category": 2,
+			"image": "assets/images/screenshots/venture-thumb.jpg",
+			"thumb": "assets/images/screenshots/venture-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Venture Shop Brasil",
+					"description": "Loja de equipamento de acampamento e itens esportivos"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Venture Shop Brazil",
+					"description": "Store with camping and sporting goods"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.sularmas.com.br/",
+			"category": 2,
+			"image": "assets/images/screenshots/sularma-thumb.jpg",
+			"thumb": "assets/images/screenshots/sularmas-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Sul Armas Caça &amp; Pesca",
+					"description": "Loja esportiva de caça e pesca"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Sul Guns Hunting and Fishing",
+					"description": "Sporting store for hunting and fishing"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "https://pt.aliexpress.com/",
+			"category": 2,
+			"image": "assets/images/screenshots/aliexpress-thumb.jpg",
+			"thumb": "assets/images/screenshots/aliexpress-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "AliExpress",
+					"description": "Loja de departamentos com inúmeros produtos"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "AliExpress",
+					"description": "Department store with various products"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.bivak.com.br/loja/nutricao-br/alimentos-liofilizados-br.html",
+			"category": 2,
+			"image": "assets/images/screenshots/bivak-thumb.jpg",
+			"thumb": "assets/images/screenshots/bivak-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Bivak Alimentos Liofilizados",
+					"description": "Loja esportiva e de acampamentos que vende alimentos Liofilizados"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Bivak Dry Foods",
+					"description": "Sporting and camping store that sells freeze-dried food supplies"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.mundoterra.com.br/",
+			"category": 2,
+			"image": "assets/images/screenshots/mundoterra-thumb.jpg",
+			"thumb": "assets/images/screenshots/mundoterra-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Mundo Terra",
+					"description": "Loja de departamentos com itens de acampamento"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Terra World",
+					"description": "Department store with camping goods"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.ecocacaepesca.com.br/",
+			"category": 2,
+			"image": "assets/images/screenshots/ecocacaepesca-thumb.jpg",
+			"thumb": "assets/images/screenshots/ecocacaepesca-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Eco Caça e Pesca",
+					"description": "Loja de equipamentos de caça e pesca"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Eco Hunting and Fishing",
+					"description": "Store with hunting and fishing supplies"
+				}
+			}
+		}, {
+
+			"language": "pt-br",
+			"url": "http://www.mobly.com.br/jardim-e-lazer/equipamentos-camping/",
+			"category": 2,
+			"image": "assets/images/screenshots/mobly-thumb.jpg",
+			"thumb": "assets/images/screenshots/mobly-thumb.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Mobly Camping",
+					"description": "Loja de itens variados, incluindo acampamento"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Mobly Camping",
+					"description": "Store with various items, including camping supplies"
+				}
+			}
+		}]
+	}, {
+		"alias": "videos",
+		"id": "videos",
+		"order": 7,
+		"icon": "video-camera",
+		"text": {
+			"pt-br": {
+				"title": "Vídeos Relacionados",
+				"description": "Vídeos úteis com documentários sobre preparação e emergências"
+			},
+			"en-us": {
+				"title": "Related Videos",
+				"description": "Useful documentaries about preparation and survival"
+			}
+		},
+		"list": [{
+			"language": "en-us",
+			"url": "https://www.youtube.com/watch?v=xembQvHGNUM&list=PLum50h_rWpG6qIKOwiUdqryoVyAAS4qPd",
+			"category": 1,
+			"image": "assets/images/screenshots/documentary_1.jpg",
+			"thumb": "assets/images/screenshots/documentary_1.jpg",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Doomsday Preppers",
+					"description": "Documentário do History Channel mostrando a preparação de famílias para o fim do mundo"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Doomsday Preppers",
+					"description": "History Channel documentary showing families and their preparation for doomsday"
+				}
+			}
+		}]
+	}, {
+		"alias": "equipments",
+		"id": "equipments",
+		"order": 2,
+		"icon": "cutlery",
+		"text": {
+			"pt-br": {
+				"title": "Equipamentos",
+				"description": "Lista de equipamentos para montagem de um kit 72 horas, ou para sobrevivência em longo prazo"
+			},
+			"en-us": {
+				"title": "Equipments",
+				"description": "List of equipments for a 72 hour kit, or for long term survival"
+			}
+		},
+		"list": [{
+
+			"currency": "usd",
+			"language": "en-us",
+			"price": "64.00",
+			"url": "http://www.ebay.com/sch/i.html?_trksid=m570.l1313.TR12.TRC2.A0.XSwissChamp&_nkw=SwissChamp&_sacat=0&_from=R40",
+			"category": 0,
+			"optional": true,
+			"image": "assets/images/products/swiss-army.png",
+			"thumb": "assets/images/products/swiss-army.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Canivete Suiço Victorinox",
+					"description": "Canivete suiço de qualidade, com várias ferramentas"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Victorinox Swiss Pocket Knife",
+					"description": "Swiss army pocket knife with various tools"
+				}
+			}
+		}, {
+
+			"currency": "usd",
+			"language": "en-us",
+			"price": "39.59",
+			"url": "http://www.ebay.com/sch/i.html?_trksid=p2047675.m570.l1313.TR0.TRC0.XGerber+31-000701+Bear+Grylls+Ultimate+Survival+Kit&_nkw=Gerber+31-000701+Bear+Grylls+Ultimate+Survival+Kit&_sacat=0&_from=R40",
+			"category": 0,
+			"optional": true,
+			"image": "assets/images/products/bear-grills.png",
+			"thumb": "assets/images/products/bear-grills.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Kit Bear Grylls de Sobrevivência",
+					"description": "Kit de sobrevivência an floresta, com itens básicos de sobrevivencia, incluindo serra e linha de pesca"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Gerber Bear Grylls Survival Series Ultimate Kit 31-000701",
+					"description": "Survival kit for the wild, with basic survival itens, including a saw and fishing line"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "135.00",
+			"url": "http://lista.mercadolivre.com.br/faca-tatica-sobrevivncia-aitor-jungle-king-ii-acampamento_NoIndex_True",
+			"category": 0,
+			"optional": true,
+			"image": "assets/images/products/faca-sobrevivencia.png",
+			"thumb": "assets/images/products/faca-sobrevivencia.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Faca Tatica de Sobrevivência",
+					"description": "Faca de alta resistencia para sobrevivencia e uso estensivo"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Tactival Survival Knife",
+					"description": "High-resistance survival knife for extended use"
+				}
+			}
+		}, {
+
+			"currency": "usd",
+			"language": "en-us",
+			"price": "19.95",
+			"url": "https://www.redcrossstore.org/item/329165",
+			"category": 1,
+			"optional": false,
+			"image": "assets/images/products/socorro.png",
+			"thumb": "assets/images/products/socorro.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Kit de Primeiros Socorros",
+					"description": "Kit com itens básicos para primeiros socorros"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Be Red Cross Ready First Aid Kit",
+					"description": "Kit with basic items for first aid emergencies"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "38.20",
+			"url": "http://www.arcoeflecha.com.br/conjunto-de-bolsas-impermeaveis-nautika-p595/",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/bolsas-impermeaveis.png",
+			"thumb": "assets/images/products/bolsas-impermeaveis.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Conjunto de Bolsas Impermeáveis - Nautika",
+					"description": "Sacos impermeáveis para documentos e outros itens que não podem molhar"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Water-proof pocket kit",
+					"description": "Water proof bags for documents and other items that cannot get wet"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "11.92",
+			"url": "http://www.territorioonline.com.br/pastilha-purificadora-clorin",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/clorin.png",
+			"thumb": "assets/images/products/clorin.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Pastilha Purificadora de Água",
+					"description": "Pastilha para purificação de água, em caso de emergência"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Water purifiying capsules",
+					"description": "Purifying water tablets for emergencies"
+				}
+			}
+		}, {
+
+			"currency": "usd",
+			"language": "en-us",
+			"price": "199.00",
+			"url": "https://www.amazon.com/ThruNite-Lumen-Flashlight-Powered-Batteries/dp/B017KATY7M",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/thrunite-lumen-flashlight.png",
+			"thumb": "assets/images/products/thrunite-lumen-flashlight.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Lanterna ThruNite TN36 UT 7300 Lumen CREE XHP 70 LED",
+					"description": "Lanterna de alta potencia e portátil"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "ThruNite TN36 UT 7300 Lumen CREE XHP 70 LED Flashlight",
+					"description": "Strong light and portable flashlight"
+				}
+			}
+		}, {
+
+			"currency": "blr",
+			"language": "pt-br",
+			"price": "229.00",
+			"url": "http://www.boacoisa.com.br/bin%C3%B3culos",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/binoculos.png",
+			"thumb": "assets/images/products/binoculos.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Binóculos",
+					"description": "Binóculos para monitoramento e uso tático"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Binoculars",
+					"description": "Binoculars for monitoring and tactical use"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "48.32",
+			"url": "https://www.kanui.com.br/Conjunto-de-Talheres-Plastico-Nautika-Cinza-2754336.html",
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/talheres.png",
+			"thumb": "assets/images/products/talheres.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Conjunto Talheres de Plástico",
+					"description": "Kit com garfo, faca e colher"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Eating Utensils",
+					"description": "Kit with fork, knife and spoon"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "55.99",
+			"url": "https://www.walmart.com.br/faca-nautika-matao-32-126-0/2026785/pr",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/facao.png",
+			"thumb": "assets/images/products/facao.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Faca Nautika Matao",
+					"description": "Facão para uso em mata densa"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Machetti Nautika",
+					"description": "Machetti for dense vegetation"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "39.60",
+			"url": "http://www.arcoeflecha.com.br/bastoes-de-luz-quimica-coghlans-p38/?",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/luz-quimica.png",
+			"thumb": "assets/images/products/luz-quimica.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Bastões de Luz Química - Coghlans",
+					"description": "Luz química para uso em emergência e resgates"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Chemical Light - Coghlans",
+					"description": "Chemical light for emergencies and rescues"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "32.25",
+			"url": "http://www.lojatudo.com.br/automotivo/corda-reflexiva-para-amarracao-amarela-multilaser.html",
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/corda.png",
+			"thumb": "assets/images/products/corda.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Corda Reflexiva para Amarração 15m x 7mm Amarela Multilaser",
+					"description": "Corda que brilha no escuro e de grande resistencia"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Night visible 45ft 3/4\" Rope",
+					"description": "Strong night glowying rope"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "81.74",
+			"url": "http://www.mundodacarabina.com.br/machado-rubber-mormaii",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/machado.png",
+			"thumb": "assets/images/products/machado.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Machado Rubber - Mormaii",
+					"description": "Machado para cortes de árvores e emergencias"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Rubber Axe - Mormaii",
+					"description": "Strong axe for trees and emergencies"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "84.00",
+			"url": "http://www.mundoterra.com.br/aventura-e-camping/chaveiros-e-cadeados/pa-dobravel-guepardo.html?codbar=CE0100",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/pa-dobravel.png",
+			"thumb": "assets/images/products/pa-dobravel.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Pá Dobravel - Guepardo",
+					"description": "Pá portátil e pequena quando dobrada"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Foldable Shovel",
+					"description": "Small and portable shovel"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "29.90",
+			"url": "http://www.ecocacaepesca.com.br/produtos/0,11258_pederneira-iniciador-de-fogo-coleman",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/iniciador-fogo.png",
+			"thumb": "assets/images/products/iniciador-fogo.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Pederneira Iniciador de Fogo Coleman",
+					"description": "Kit de iniciar fogo, para acampamentos e emergencias"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Coleman Fire Starter",
+					"description": "Fire starting kit, for camping and emergencies"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "42.12",
+			"url": "http://www.arcoeflecha.com.br/fita-fix-suporte-para-rede-kampa-p345/",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/fita-fix.png",
+			"thumb": "assets/images/products/fita-fix.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Fita Fix Suporte para Rede Kampa",
+					"description": "Fita de alta resistencia para suportar pesos"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Fixed Support for Hammock",
+					"description": "High-resistance strap for heavy weights"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "356.10",
+			"url": "http://www.netshoes.com.br/produto/barraca-coleman--lx-2-pessoas-533-0089-066?&lkey=a2",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/barraca.png",
+			"thumb": "assets/images/products/barraca.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Barraca Coleman LX 2 Pessoas",
+					"description": "Barraca grande para 2 pessoas, de alta qualidade"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Coleman Tent LX 2 People",
+					"description": "High-quality tent for 2 people"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "48.50",
+			"url": "http://www.pescaminas.com.br/p-6180548-Organizador%20Suspenso%20-%20Coleman",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/organizador.png",
+			"thumb": "assets/images/products/organizador.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Organizador Suspenso - Coleman",
+					"description": "Organizador de itens para barraca, que fica suspenso e tem 3 prateleiras"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Coleman Suspended Organizer",
+					"description": "Suspended organizer for tents, with 3 shelves"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "31.92",
+			"url": "http://www.adventura.com.br/isolante-termico-eva-aluminizado-guepardo.html",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/isolante.png",
+			"thumb": "assets/images/products/isolante.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Isolante Térmico EVA Aluminizado",
+					"description": "Isolante térmico para debaixo do saco de dormir"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Thermal Isolation EVA Aluminum Foil",
+					"description": "Thermal isolation to be used under the sleeping bag"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "62.20",
+			"url": "https://www.walmart.com.br/conjunto-de-fixadores-elasticos-coghlans/3593191/pr",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/fixadores.png",
+			"thumb": "assets/images/products/fixadores.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Conjunto de Fixadores Elásticos Coghlans",
+					"description": "Elástico com ganchos para uso variado"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Coghlans Elastic Bungies",
+					"description": "General use bungies with hooks"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "81.11",
+			"url": "http://www.extra.com.br/EsporteLazer/Camping/AcessorioseEquipamentos/Lona-Multiuso-Polietileno-Nautika-4-x-3-Reforcada-4987367.html",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/lona.png",
+			"thumb": "assets/images/products/lona.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Lona Multiuso Polietileno Nautika 4 x 3 Reforçada",
+					"description": "Lona para forro embaixo da barraca"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "12ft x 9ft Plastic Tarp",
+					"description": "Tarp for use under the tent"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "54.00",
+			"url": "http://www.sugoibigfish.com.br/impermeabilizante-coleman%C2%AE-pro-techt-water-repellent,product,0076501921892.aspx",
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/impermeabilizante.png",
+			"thumb": "assets/images/products/impermeabilizante.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Impermeabilizante Coleman Pro-Techt Water Repellent",
+					"description": "Impermeabilizante para barracas, botas, etc"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Coleman Pro-Techt Water Repellent",
+					"description": "Water-proof spray for tent, boot, and other items"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "45.00",
+			"url": "http://www.casadacarabina.com.br/ProdutosDetalhes.php?Nome=CONJUNTO-TENT-KIT-COLEMAN&Codigo=35732&Origem=",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/kit-barraca.png",
+			"thumb": "assets/images/products/kit-barraca.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Conjunto Tent Kit Coleman",
+					"description": "Kit com estacas resistentes para barraca"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Tent Kit Coleman",
+					"description": "Kit with resistant stakes for tents"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "439.90",
+			"url": "https://dispropil.com.br/produtos/mochila-alpina-pro-45l",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/mochila.png",
+			"thumb": "assets/images/products/mochila.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Mochila Conquista Alpina PRO 45L",
+					"description": "Mochila de acampamento de alta resistencia"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Alpina PRO 45L Camping Backpack",
+					"description": "Highly resistant Camping backpack"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "129.90",
+			"url": "http://esportes.mercadolivre.com.br/camping/saco-de-dormir-quechua-s0-ultralight-novo!",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/quechua.png",
+			"thumb": "assets/images/products/quechua.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Quechua S0 Ultralight",
+					"description": "Saco de dormir com isolante térmico"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Quechua S0 Ultralight",
+					"description": "Thermal isolated sleeping bag"
+				}
+			}
+		}, {
+
+			"currency": "blr",
+			"language": "pt-br",
+			"price": "75.00",
+			"url": "http://www.rodanesportelazer.com.br/produtos/0,6699_kit-cozinha-camping-guepardo-contem-4-pecas-ideal-para-1-pessoa-cod-3531",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/kit-cozinha.png",
+			"thumb": "assets/images/products/kit-cozinha.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Kit Cozinha Camping- Guepardo",
+					"description": "Kit de cozinha com panela, tampa e caneca"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Camping Cooking Kit",
+					"description": "Cooking kit with pan, lid and cup"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "24.50",
+			"url": "https://www.acampar.com.br/ListaProdutos.asp?IDLoja=13394&IDCategoria=104421",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/bussola.png",
+			"thumb": "assets/images/products/bussola.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Bússola",
+					"description": "Bússola comum, mas de qualidade"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Compass",
+					"description": "Common, but high quality compass"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"language": "pt-br",
+			"price": "80.99",
+			"url": "http://adventureimports.com.br/produto/reservatorio-de-agua-2-litros-hidrabag-nautika/33387",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/reservatorio.png",
+			"thumb": "assets/images/products/reservatorio.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Reservatório de Água Nautika Hidrabag",
+					"description": "Reservatório de água com 2 litros"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Nautika Hidrabag Water Pocket",
+					"description": "Water pocket for 2 litters (8 quarts)"
+				}
+			}
+		}, {
+
+			"currency": "blr",
+			"language": "pt-br",
+			"price": "89.99",
+			"url": "http://lista.mercadolivre.com.br/walkie-talkie",
+			"category": 2,
+			"optional": true,
+			"image": "assets/images/products/walkie-talkies.png",
+			"thumb": "assets/images/products/walkie-talkies.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Walkie-talkie",
+					"description": "Rádio de comunicação a curta distancia"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Two-way Radio",
+					"description": "Short wave radio for communication"
+				}
+			}
+		}, {
+
+			"currency": "usd",
+			"language": "en-us",
+			"price": "99.99",
+			"url": "http://www.dx.com/pt/c/sports-outdoors-1699/camping-1606/shovels-camp-tool-1637?pagesize=200",
+			"category": 0,
+			"optional": false,
+			"image": "assets/images/products/generic.png",
+			"thumb": "assets/images/products/generic.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Itens Genéricos",
+					"description": "Itens em geral"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Generic Items",
+					"description": "General items"
+				}
+			}
+		}]
+	}, {
+		"alias": "supplies",
+		"id": "supplies",
+		"order": 4,
+		"icon": "beer",
+		"text": {
+			"pt-br": {
+				"title": "Suprimentos",
+				"description": "Lista de suprimentos para kit 72 horas ou para Sobrevivência em longo prazo"
+			},
+			"en-us": {
+				"title": "Supplies",
+				"description": "List of supplies for 72 hour kits or for extended survival"
+			}
+		},
+		"list": [{
+
+			"currency": "brl",
+			"price": "16.99",
+			"language": "pt-br",
+			"quantity": 24,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/cereal.png",
+			"thumb": "assets/images/products/cereal.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Barras de Cereal",
+					"description": "Barras de cereal são úteis para repor energia pois são carregadas de calorias",
+					"type": "Pacote",
+					"flavour": "Chocolate"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Cereal Bars",
+					"description": "Cereal bars are useful for energy since they are packed with calories",
+					"type": "Pack",
+					"flavour": "Chocolate"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "26.90",
+			"language": "pt-br",
+			"quantity": 3,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/atum.png",
+			"thumb": "assets/images/products/atum.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Atum em Pedaços",
+					"description": "Atum é um alimento prático e dinamico, além de saboroso e saudável",
+					"type": "Pacote",
+					"flavour": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Tuna Fish",
+					"description": "Tuna is an easy and dynamic nurishment, and very tasty and healthy",
+					"type": "Pack",
+					"flavour": ""
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "2.40",
+			"language": "pt-br",
+			"quantity": 24,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/sazon.png",
+			"thumb": "assets/images/products/sazon.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Tempero Sazon",
+					"description": "Tempero sazom tem vários usos, mas principalmente para o arroz",
+					"type": "Sachê",
+					"flavour": "Branco"
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Sazon Seasoning",
+					"description": "Seasoning for various uses, but most importantly for rice",
+					"type": "Packets",
+					"flavour": "White"
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "2.25",
+			"language": "pt-br",
+			"quantity": 1,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/arroz.png",
+			"thumb": "assets/images/products/arroz.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Arroz Parbolizado",
+					"description": "Arroz normal para cozimento (crú)",
+					"type": "Saco 1Kg",
+					"flavour": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "White Rice",
+					"description": "Raw and normal rice for cooking",
+					"type": "2lbs Bag",
+					"flavour": ""
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "11.50",
+			"language": "pt-br",
+			"quantity": 1,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/wipes.png",
+			"thumb": "assets/images/products/wipes.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Lenços Humidecidos",
+					"description": "Lenços humidecidos caso não existe água em abundancia para um banho decente",
+					"type": "Pacote",
+					"flavour": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Moist Wipes",
+					"description": "Moist wipes in case there is no abundant source of water for a decent bath",
+					"type": "Package",
+					"flavour": ""
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "3.80",
+			"language": "pt-br",
+			"quantity": 4,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/lencos-papel.png",
+			"thumb": "assets/images/products/lencos-papel.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Lenços de Papel",
+					"description": "Lenços de papel para uso variado",
+					"type": "Pacote",
+					"flavour": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Paper Tissues",
+					"description": "Paper tissues for various uses",
+					"type": "Packet",
+					"flavour": ""
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "6.80",
+			"language": "pt-br",
+			"quantity": 2,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/sopao.png",
+			"thumb": "assets/images/products/sopao.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Sopão",
+					"description": "Sopão genérico (sabores variados) para preparo rápido",
+					"type": "Paote",
+					"flavour": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Super Soup",
+					"description": "Soup for fast and easy cooking with various flavours",
+					"type": "Packet",
+					"flavour": ""
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "6.00",
+			"language": "pt-br",
+			"quantity": 2,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/azeite.png",
+			"thumb": "assets/images/products/azeite.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Azeite",
+					"description": "Azeite para cozinhar e uso geral",
+					"type": "Lata 200ml",
+					"flavour": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Olive Oil",
+					"description": "For cooking and general use",
+					"type": "16oz Can",
+					"flavour": ""
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "2.55",
+			"language": "pt-br",
+			"quantity": 2,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/spam.png",
+			"thumb": "assets/images/products/spam.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Kituti (SPAM)",
+					"description": "Alimento prensado de uso fácil e com proteínas, caso não haja outra fonte disponível de proteínas",
+					"type": "Lata",
+					"flavour": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Spam",
+					"description": "Pressed and canned food that is easy to use and filled with protein, in case no other source of protein is available",
+					"type": "Can",
+					"flavour": ""
+				}
+			}
+		}, {
+
+			"currency": "brl",
+			"price": "10.99",
+			"language": "pt-br",
+			"quantity": 1,
+			"category": 2,
+			"optional": false,
+			"image": "assets/images/products/toalha.png",
+			"thumb": "assets/images/products/toalha.png",
+			"translations": {
+				"pt-br": {
+					"code": "pt-br",
+					"name": "Toalha de Rosto",
+					"description": "Toalha para uso geral, inclusive banho",
+					"type": "",
+					"flavour": ""
+				},
+				"en-us": {
+					"code": "en-US",
+					"name": "Face Towel",
+					"description": "General use handtowel, including for bath",
+					"type": "",
+					"flavour": ""
+				}
+			}
+		}]
+	}]
+}

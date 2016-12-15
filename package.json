@@ -1,0 +1,31 @@
+{
+  "name": "doomsday_preppers",
+  "description": "Doomsday Preppers Page and Database",
+  "homepage": "http://doomsdaypreppers.tk",
+  "keywords": [
+    "doomsday",
+    "kit",
+    "emergency",
+    "preparedness",
+    "browser"
+  ],
+  "author": "Carlos Casalicchio <carlos.casalicchio@gmail.com>",
+  "contributors": [],
+  "dependencies": [],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.html",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-force": "^1.0.0",
+    "grunt-sync": "^0.6.2",
+    "less-plugin-autoprefix": "^1.5.1",
+    "less-plugin-clean-css": "^1.5.1"
+  }
+}
