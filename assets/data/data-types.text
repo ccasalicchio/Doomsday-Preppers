@@ -8,175 +8,161 @@ Categories:
 2 - 72 Hours
 3 - Extended
 
-Site
-,{
-	"site": {
-		"language": "en-US|pt-BR",
-		"url": "",
-		"category": 0,
-		"image": "",
-		"thumb": "",
-		"translations": [{
-			"language": [{
-				"code": "pt-BR",
-				"name": "",
-				"description":""
-			}]
-		}, {
-			"language": [{
-				"code": "en-US",
-				"name": "",
-				"description":""
-			}]
-		}]
+Sites ==>
+CODE
+{
+
+	"language": "pt-br|en-us",
+	"url": "",
+	"category": 0|1|2,
+	"image": "assets/images/screenshots/",
+	"thumb": "assets/images/screenshots/",
+	"translations": {
+		"pt-br": {
+			"code": "pt-br",
+			"name": "",
+			"description": ""
+		},
+		"en-us": {
+			"code": "en-US",
+			"name": "",
+			"description": ""
+		}
 	}
 }
 Store 
-,{
-	"store": {
-		"language": "en-US|pt-BR",
-		"url": "",
-		"category": 0,
-		"image": "",
-		"thumb":"",
-		"translations": [{
-			"language": [{
-				"code": "pt-BR",
-				"name": "",
-				"description":""
-			}]
-		}, {
-			"language": [{
-				"code": "en-US",
-				"name": "",
-				"description":""
-			}]
-		}]
+{
+
+	"language": "pt-br|en-us",
+	"url": "",
+	"category": 0|1|2,
+	"image": "assets/images/screenshots/",
+	"thumb": "assets/images/screenshots/",
+	"translations": {
+		"pt-br": {
+			"code": "pt-br",
+			"name": "",
+			"description": ""
+		},
+		"en-us": {
+			"code": "en-US",
+			"name": "",
+			"description": ""
+		}
 	}
 }
 Equipment
-,{
-	"equipment": {
-		"currency": "usd",
-		"language": "en-US|pt-BR",
-		"price": "",
-		"url": "",
-		"category": 0,
-		"optional": true,
-		"image": "",
-		"thumb":"",
-		"translations": [{
-			"language": [{
-				"code": "pt-BR",
-				"name": "",
-				"description":""
-			}]
-		}, {
-			"language": [{
-				"code": "en-US",
-				"name": "",
-				"description":""
-			}]
-		}]
+{
+
+	"currency": "brl|usd",
+	"language": "pt-br|en-us",
+	"price": "00.00",
+	"url": "",
+	"category": 0|1|2,
+	"optional": true|false,
+	"image": "assets/images/products/",
+	"thumb": "assets/images/products/",
+	"translations": {
+		"pt-br": {
+			"code": "pt-br",
+			"name": "",
+			"description": ""
+		},
+		"en-us": {
+			"code": "en-US",
+			"name": "",
+			"description": ""
+		}
 	}
 }
 Video
-,{
-	"video": {
-		"url": "",
-		"language": "en-US|pt-BR",
-		"category": 0,
-		"image": "",
-		"thumb":"",
-		"translations": [{
-			"language": [{
-				"code": "pt-BR",
-				"name": "",
-				"description":""
-			}]
-		}, {
-			"language": [{
-				"code": "en-US",
-				"name": "",
-				"description":""
-			}]
-		}]
+{
+	"language": "pt-br|en-us",
+	"url": "",
+	"category": 0|1|2,
+	"image": "assets/images/screenshots/",
+	"thumb": "assets/images/screenshots/",
+	"translations": {
+		"pt-br": {
+			"code": "pt-br",
+			"name": "",
+			"description": ""
+		},
+		"en-us": {
+			"code": "en-US",
+			"name": "",
+			"description": ""
+		}
 	}
 }
 Supply
-,{
-	"supply": {
-		"currency": "usd",
-		"price": "",
-		"language": "en-US|pt-BR",
-		"quantity": 0,
-		"category": 0,
-		"optional": true,
-		"image": "",
-		"thumb": "",
-		"translations": [{
-			"language": [{
-				"code": "pt-BR",
-				"name": "",
-				"description":""
-				"type": "",
-				"flavour": ""
-			}]
-		}, {
-			"language": [{
-				"code": "en-US",
-				"name": "",
-				"description":""
-				"type": "",
-				"flavour": ""
-			}]
-		}]
+{
+
+	"currency": "brl|usd",
+	"price": "00.00",
+	"language": "pt-br|en-us",
+	"quantity": 00,
+	"category": 0|1|2,
+	"optional": true|false,
+	"image": "assets/images/products/",
+	"thumb": "assets/images/products/",
+	"translations": {
+		"pt-br": {
+			"code": "pt-br",
+			"name": "",
+			"description": "",
+			"type": "Pacote",
+			"flavour": "sabor"
+		},
+		"en-us": {
+			"code": "en-US",
+			"name": "",
+			"description": "",
+			"type": "Pack",
+			"flavour": "flavour"
+		}
 	}
 }
 Document
-,{
-	"document": {
-		"language": "en-US|pt-BR",
-		"url": "",
-		"category": 0,
-		"image": "",
-		"thumb":"",
-		"translations": [{
-			"language": [{
-				"code": "pt-BR",
-				"name": "",
-				"description":""
-			}]
-		}, {
-			"language": [{
-				"code": "en-US",
-				"name": "",
-				"description":""
-			}]
-		}]
+{
+
+	"language": "pt-br|en-us",
+	"url": "assets/documents/",
+	"category": 1|2|3,
+	"image": "assets/images/screenshots/",
+	"thumb": "assets/images/screenshots/",
+	"translations": {
+		"pt-br": {
+			"code": "pt-br",
+			"name": "",
+			"description": ""
+		},
+		"en-us": {
+			"code": "en-US",
+			"name": "",
+			"description": ""
+		}
 	}
-}
+},
 Kit Websites
-,{
-	"kit": {
-		"language": "en-US|pt-BR",
-		"url": "",
-		"category": 0,
-		"image": "",
-		"thumb":"",
-		"translations": [{
-			"language": [{
-				"code": "pt-BR",
-				"name": "",
-				"description":""
-			}]
-		}, {
-			"language": [{
-				"code": "en-US",
-				"name": "",
-				"description":""
-			}]
-		}]
+{
+
+	"language": "pt-br|en-us",
+	"url": "",
+	"category": 0|1|2,
+	"image": "assets/images/screenshots/",
+	"thumb": "assets/images/screenshots/",
+	"translations": {
+		"pt-br": {
+			"code": "pt-br",
+			"name": "",
+			"description": ""
+		},
+		"en-us": {
+			"code": "en-US",
+			"name": "",
+			"description": ""
+		}
 	}
-}
+},
 */
