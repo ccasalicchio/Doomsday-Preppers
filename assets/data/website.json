@@ -404,7 +404,7 @@
 			}, {
 
 				"name": "Supplies",
-				"ref": "#supples",
+				"ref": "#supplies",
 				"id": "supplies",
 				"title": "Supply List",
 				"order": 4
