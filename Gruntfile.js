@@ -11,13 +11,29 @@ module.exports = function(grunt) {
 				updateAndDelete: true
 			}
 		},
-		watch: {
-			files: ['assets/**/*','webservice/*','*.*','!assets/js/*'],
-			tasks: ['uglify','sync']
+		cssmin: {
+			options: {
+				shorthandCompacting: false,
+				roundingPrecision: -1
+			},
+			target: {
+				files: {
+					'assets/css/site.min.css': [
+					'assets/css/reset.css',
+					'assets/css/normalize.css',
+					'assets/css/font-awesome-animation.min.css',
+					'assets/css/tooltipster.bundle.css',
+					'assets/css/hamburgers.css',
+					'assets/css/css-loader.css',
+					'assets/css/style.css'
+					]
+				}
+			}
 		},
-		//lesslint: {
-			//src: ['assets/**/*.less']
-		//},
+		watch: {
+			files: ['assets/**/*','webservice/*','*.*','!assets/js/*','!assets/css/site.min.css'],
+			tasks: ['uglify','cssmin','sync']
+		},
 		uglify: {
 			my_target: {
 				options: {
@@ -44,9 +60,9 @@ module.exports = function(grunt) {
 			}
 		}
 	});
-	grunt.loadNpmTasks('grunt-sync');
-	//grunt.loadNpmTasks('grunt-lesslint')
-	grunt.loadNpmTasks('grunt-contrib-watch');
-	grunt.loadNpmTasks('grunt-contrib-uglify');
-	grunt.registerTask('default', ['uglify','sync','watch']);
+grunt.loadNpmTasks('grunt-sync');
+grunt.loadNpmTasks('grunt-contrib-watch');
+grunt.loadNpmTasks('grunt-contrib-uglify');
+grunt.loadNpmTasks('grunt-contrib-cssmin');
+grunt.registerTask('default', ['uglify','cssmin','sync','watch']);
 };

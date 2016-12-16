@@ -32,15 +32,11 @@
 	<meta name="msapplication-config" content="assets/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 
-	<link rel="stylesheet" href="assets/css/reset.css">
-	<link rel="stylesheet" href="assets/css/normalize.css">
+	<!--Production-->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu" >
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="assets/css/font-awesome-animation.min.css">
-	<link rel="stylesheet" href="assets/css/tooltipster.bundle.css">
-	<link rel="stylesheet" href="assets/css/hamburgers.css">
-	<link rel="stylesheet" href="assets/css/css-loader.css">
-	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/site.min.css">
+	<!--/Production-->
 
 	<title></title>
 </head>
@@ -254,88 +250,73 @@
 			</div>
 			<hr class="style-one"/>
 			<a id="contact"></a>
-				<h1>{{model.website.text[model.language]['contact-form'].title}}</h1>
-				<div class="break"></div>
-				<form id="contact" name="contact" method="post">  
-					<fieldset>  
-						<label for="name" id="name">{{model.website.text[model.language]['contact-form'].name}}<span class="required">*</span></label>
-						<input type="text" name="name" id="name" size="30" value="" placeholder="{{model.website.text[model.language]['contact-form'].name}}" required/>
+			<h1>{{model.website.text[model.language]['contact-form'].title}}</h1>
+			<div class="break"></div>
+			<form id="contact" name="contact" method="post">  
+				<fieldset>  
+					<label for="name" id="name">{{model.website.text[model.language]['contact-form'].name}}<span class="required">*</span></label>
+					<input type="text" name="name" id="name" size="30" value="" placeholder="{{model.website.text[model.language]['contact-form'].name}}" required/>
 
-						<label for="email" id="email">{{model.website.text[model.language]['contact-form'].email}}<span class="required">*</span></label>
-						<input type="text" name="email" id="email" size="30" value="" placeholder="{{model.website.text[model.language]['contact-form'].email}}" required/>
+					<label for="email" id="email">{{model.website.text[model.language]['contact-form'].email}}<span class="required">*</span></label>
+					<input type="text" name="email" id="email" size="30" value="" placeholder="{{model.website.text[model.language]['contact-form'].email}}" required/>
 
-						<label for="Message" id="message">{{model.website.text[model.language]['contact-form'].message}}<span class="required">*</span></label>
-						<textarea name="message" id="message" placeholder="{{model.website.text[model.language]['contact-form'].message}}" required></textarea>
+					<label for="Message" id="message">{{model.website.text[model.language]['contact-form'].message}}<span class="required">*</span></label>
+					<textarea name="message" id="message" placeholder="{{model.website.text[model.language]['contact-form'].message}}" required></textarea>
 
-						<label for="Captcha" id="captcha">{{model.website.text[model.language]['contact-form'].captcha}}<span class="required">*</span></label>
-						<input type="text" name="captcha" value="" placeholder="{{model.website.text[model.language]['contact-form'].captcha}}" required/>
+					<label for="Captcha" id="captcha">{{model.website.text[model.language]['contact-form'].captcha}}<span class="required">*</span></label>
+					<input type="text" name="captcha" value="" placeholder="{{model.website.text[model.language]['contact-form'].captcha}}" required/>
 
-						<input id="submit" type="submit" name="submit" value="{{model.website.text[model.language]['contact-form'].submit}}" />  
+					<input id="submit" type="submit" name="submit" value="{{model.website.text[model.language]['contact-form'].submit}}" />  
 
-						<div class="single4"></div>
-						<input type="hidden" value="{{model.website.text[model.language]['contact-form']['captcha-error']}}" id="captcha-wrong"/>
-						<input type="hidden" value="{{model.website.text[model.language]['contact-form']['captcha-response']}}" id="captcha-response"/>
-					</fieldset>  
-				</form>
+					<div class="single4"></div>
+					<input type="hidden" value="{{model.website.text[model.language]['contact-form']['captcha-error']}}" id="captcha-wrong"/>
+					<input type="hidden" value="{{model.website.text[model.language]['contact-form']['captcha-response']}}" id="captcha-response"/>
+				</fieldset>  
+			</form>
 
-				<div id="success">
-					<span>
-						<p> {{model.website.text[model.language]['contact-form'].success}}</p>
-					</span>
-				</div>
-
-				<div id="error">
-					<span>
-						<p>{{model.website.text[model.language]['contact-form'].failure}}</p>
-					</span>
-				</div>
-			</div>
-		</section>
-		<input type="hidden" id="link-reported" value="{{model.website.text[model.language].reported}}"/>
-		<footer>
-			<div>
-				<h6>{{model.website.text[model.language]['open-source-disclaimer']}}</h6>
-				<div class="break"></div>
-				<div class="logos">
-					<a ng-repeat="logo in model.website.settings['open-source-logos']" href="{{logo.url}}" title="{{logo.tooltip}}" target="_blank">
-						<img ng-src="{{logo.img}}" alt="{{logo.tooltip}}">
-					</a>
-				</div>
-				<div class="break"></div>
-				<strong>{{model.website.text[model.language].disclaimer}}</strong>
-				<div class="break"></div>
-				{{model.website.text[model.language].copyright}}
-				<span class="year">
+			<div id="success">
+				<span>
+					<p> {{model.website.text[model.language]['contact-form'].success}}</p>
 				</span>
 			</div>
-		</footer>	
-		<div id="backtop">
-			<a href='#start' class='navigate' title="{{model.website.text[model.language].backTop}}"><i class="fa fa-chevron-up"></i></a>
+
+			<div id="error">
+				<span>
+					<p>{{model.website.text[model.language]['contact-form'].failure}}</p>
+				</span>
+			</div>
 		</div>
-		<div class="loader loader-default is-active"></div>
+	</section>
+	<input type="hidden" id="link-reported" value="{{model.website.text[model.language].reported}}"/>
+	<footer>
+		<div>
+			<h6>{{model.website.text[model.language]['open-source-disclaimer']}}</h6>
+			<div class="break"></div>
+			<div class="logos">
+				<a ng-repeat="logo in model.website.settings['open-source-logos']" href="{{logo.url}}" title="{{logo.tooltip}}" target="_blank">
+					<img ng-src="{{logo.img}}" alt="{{logo.tooltip}}">
+				</a>
+			</div>
+			<div class="break"></div>
+			<strong>{{model.website.text[model.language].disclaimer}}</strong>
+			<div class="break"></div>
+			{{model.website.text[model.language].copyright}}
+			<span class="year">
+			</span>
+		</div>
+	</footer>	
+	<div id="backtop">
+		<a href='#start' class='navigate' title="{{model.website.text[model.language].backTop}}"><i class="fa fa-chevron-up"></i></a>
+	</div>
+	<div class="loader loader-default is-active"></div>
 
-		<script src="https://code.jquery.com/jquery-2.2.4.min.js" type="text/javascript"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js" type="text/javascript"></script>
-		<!--PROD-->
-<!--		<script src="assets/js/app.min.js" type="text/javascript"></script>
-		<script src="assets/js/page.min.js" type="text/javascript"></script>
-		<!--/prod-->
--->
-		<!--Staging-->
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js" type="text/javascript"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js" type="text/javascript"></script>
+	<!--PROD-->
+	<script src="assets/js/app.min.js" type="text/javascript"></script>
+	<script src="assets/js/page.min.js" type="text/javascript"></script>
+	<!--/prod-->
 
-		<script src="assets/scripts/app.js" type="text/javascript"></script>
-		<script src="assets/scripts/app.dataservice.js" type="text/javascript"></script>
-		<script src="assets/scripts/app.main-controller.js" type="text/javascript"></script>
-		<script src="assets/scripts/app.custom-bind.js" type="text/javascript"></script>
-		<script src="assets/scripts/app.filter.js" type="text/javascript"></script>
-		<script src="assets/scripts/jquery.highlight-4.closure.js" type="text/javascript"></script>
-		<script src="assets/scripts/jquery.sticky.js" type="text/javascript"></script>
-		<script src="assets/scripts/jquery.tooltipster.bundle.js" type="text/javascript"></script>
-		<script src="assets/scripts/jquery.zoom.js" type="text/javascript"></script>
-		<script src="assets/scripts/jquery.flowtype.js" type="text/javascript"></script>
-		<script src="assets/scripts/page.js" type="text/javascript"></script>
-
-		<!--/staging-->
-		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57c4368e43cb3f64"></script> 
-	</body>
-	</html>
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57c4368e43cb3f64"></script> 
+</body>
+</html>
