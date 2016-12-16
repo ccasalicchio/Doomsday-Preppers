@@ -4,11 +4,8 @@ app.angular
 		if (scope.$last){
 			setTimeout(function(){
 				/**Tooltips**/
-				app.$('[title]').tooltipster();
-				//app.$('[title]').tooltipster('content', attrs['title']);
-				/**app.$('[title]').each(function(index,element){
-					app.$('[title]').tooltipster('content', app.$(element).attr('title'));
-				});**/
+				app.updateTooltips();
+
 				/**Zoom**/
 				app.$('.zoom').zoom({ on:'grab' });
 

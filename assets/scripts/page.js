@@ -1,5 +1,13 @@
 var offset = 80;
 var counter = 0;
+
+app.updateTooltips = function(){
+    app.$('[title]').each(function(index,element){
+        app.$(element).tooltipster();
+        app.$(element).tooltipster('content', app.$(element).attr('title'));
+    });
+};
+
 app.encode = function(url){
     return encodeURI(url);
 };
@@ -13,11 +21,11 @@ app.$(function (){
     
     /**Flowtype**/
     app.$('body').flowtype({
-       minFont : 8,
-       maxFont : 18,
-       minimum : 480, 
-       maximum : 1200
-   });
+     minFont : 8,
+     maxFont : 18,
+     minimum : 480, 
+     maximum : 1200
+ });
 
     /**Remove Loader**/
     setTimeout(function(){
